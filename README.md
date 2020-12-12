@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Crash-Zeus, a 22 year old devOps
-You can find on this github personal projects that I do aside of my work
+I'm Crash-Zeus, a 22 year old devOps <br/>
+You can find on this github personal projects that I do aside of my work <br/>
 
 ---
 
