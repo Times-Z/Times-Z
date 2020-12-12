@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Crash-Zeus, a 22 year old devOps
+You can find on this github personal projects that I do aside of my work
+
+---
+
+Contributions are open, do not hesitate to open issues or propose pull requests
+
 <!--
 **Crash-Zeus/Crash-Zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
