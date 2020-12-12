@@ -3,6 +3,13 @@
 I'm Crash-Zeus, a french 22 year old devOps <br/>
 You can find on this github some personal projects that I do aside of my work <br/>
 
+Some informations on me :
+- I love my job
+- I love coffee
+- I work in a coffee society (this is developer dreams no ?)
+- I love mountain bike and surf
+- Linux life
+
 ---
 
 Contributions are open, do not hesitate to open issues or propose pull requests
