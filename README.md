@@ -9,6 +9,7 @@ Some informations on me :
 - I work in a coffee society (this is developer dreams no ?)
 - I love mountain bike and surf
 - Linux life
+- I love Docker <3
 
 ---
 
