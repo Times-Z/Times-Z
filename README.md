@@ -17,7 +17,7 @@ Contributions are open, do not hesitate to open issues or propose pull requests
 
 Stats :
 <div>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crash-Zeus&show_icons=true&hide_border=true" />
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crash-Zeus&show_icons=true&hide_border=true&layout=compact" />
 </div> 
 <div>
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crash-Zeus&show_icons=true&hide_border=true" />
