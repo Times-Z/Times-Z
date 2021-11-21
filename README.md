@@ -15,6 +15,11 @@ Some informations on me :
 
 Contributions are open, do not hesitate to open issues or propose pull requests
 
+Stats :
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crash-Zeus&show_icons=true&hide_border=true" />
+<img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crash-Zeus&show_icons=true&hide_border=true" />
+
+
 <!--
 **Crash-Zeus/Crash-Zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
