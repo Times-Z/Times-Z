@@ -25,7 +25,7 @@ Stats :
 
 Skills :
 <div>
-  <img alt="Skills" src="./img/cpt.png" />
+  <img alt="Skills" src="./.img/cpt.png" />
 <div>
 
 
