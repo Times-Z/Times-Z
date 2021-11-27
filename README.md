@@ -32,6 +32,12 @@ Skills :
 <div>
   <img alt="Skills" src="./.img/cpt.png" />
 <div>
+ 
+Visitor
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Crash-Zeus/count.svg" />
+</p>
 
 
 <!--
