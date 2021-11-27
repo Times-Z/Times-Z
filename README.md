@@ -23,6 +23,11 @@ Stats :
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crash-Zeus&show_icons=true&hide_border=true&count_private=true" />
 <div>
 
+Skills :
+<div>
+  <img alt="Skills" src="./img/cpt.png" />
+<div>
+
 
 <!--
 **Crash-Zeus/Crash-Zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
