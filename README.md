@@ -11,6 +11,11 @@ Some informations on me :
 - Linux life
 - I love Docker so much <3
 
+Soon :
+- Golang
+- Kubernetes
+- New project : SSH manager gui build in python (debian packaged)
+- Sonarqube
 ---
 
 Contributions are open, do not hesitate to open issues or propose pull requests
