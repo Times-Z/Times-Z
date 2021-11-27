@@ -16,41 +16,30 @@ Soon :
 - Kubernetes
 - New project : SSH manager gui build in python (debian packaged)
 - Sonarqube
----
+
 
 Contributions are open, do not hesitate to open issues or propose pull requests
 
-Stats :
-<div>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crash-Zeus&show_icons=true&hide_border=true&layout=compact&count_private=true" />
-</div> 
-<div>
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Crash-Zeus&show_icons=true&hide_border=true&count_private=true" />
-<div>
+---
 
-Skills :
+### <p align="center">Stats</p>
 <div>
-  <img alt="Skills" src="./.img/cpt.png" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crash-Zeus&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crash-Zeus&layout=compact&langs_count=8&theme=react&locale=fr"/>
+</div>
+
+
+---
+### <p align="center">Skills</p>
 <div>
- 
-Visitor
+  <div align="center">
+    <img alt="Skills" src="./.img/cpt.png" />
+  </div>
+</div>
+
+---
+### <p align="center">Visitor</p>
 <br>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Crash-Zeus/count.svg" />
-</p>
-
-
-<!--
-**Crash-Zeus/Crash-Zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img alt="visitor counter" src="https://profile-counter.glitch.me/Crash-Zeus/count.svg" />
+</div>
