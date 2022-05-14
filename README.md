@@ -11,11 +11,11 @@ Some informations on me :
 - Linux life
 - I love Docker so much <3
 
-Soon :
-- Golang
-- Kubernetes
-- New project : SSH manager gui build in python (debian packaged)
-- Sonarqube
+<!-- Soon : -->
+<!-- - Golang -->
+<!-- - Kubernetes -->
+<!-- - New project : SSH manager gui build in python (debian packaged) -->
+<!-- - Sonarqube -->
 
 
 Contributions are open, do not hesitate to open issues or propose pull requests
@@ -25,17 +25,17 @@ Contributions are open, do not hesitate to open issues or propose pull requests
 ### <p align="center">Stats</p>
 <div>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crash-Zeus&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crash-Zeus&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crash-Zeus&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </div>
 
 
----
+<!-- ---
 ### <p align="center">Skills</p>
 <div>
   <div align="center">
     <img alt="Skills" src="./.img/cpt.png" />
   </div>
-</div>
+</div> -->
 
 ---
 ### <p align="center">Visitor</p>
