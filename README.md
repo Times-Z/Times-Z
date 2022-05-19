@@ -24,8 +24,8 @@ Contributions are open, do not hesitate to open issues or propose pull requests
 
 ### <p align="center">Stats</p>
 <div>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crash-Zeus&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crash-Zeus&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Times-Z&show_icons=true&theme=react&include_all_commits=true&locale=fr"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Times-Z&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </div>
 
 
