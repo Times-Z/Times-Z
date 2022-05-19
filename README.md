@@ -41,5 +41,5 @@ Contributions are open, do not hesitate to open issues or propose pull requests
 ### <p align="center">Visitor</p>
 <br>
 <div align="center">
-  <img alt="visitor counter" src="https://profile-counter.glitch.me/Crash-Zeus/count.svg" />
+  <img alt="visitor counter" src="https://profile-counter.glitch.me/Times-Z/count.svg" />
 </div>
