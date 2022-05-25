@@ -34,6 +34,7 @@ Some informations on me :
   - **CPU** : Ryzen 7 5800x
   - **RAM** : 32go
   - **GPU** : Rx 6800xt from XFX
+- **WIP/soon** : Picture + custom loop
 
 ---
 
@@ -42,6 +43,10 @@ Some informations on me :
 | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Times-Z&show_icons=true&theme=react&include_all_commits=true&locale=fr"/> | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Times-Z&layout=compact&langs_count=8&theme=react&locale=fr"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Times-Z&theme=dark)](https://git.io/streak-stats)
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Times-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Times-Z&theme=dark)](https://git.io/streak-stats)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Times-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
