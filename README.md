@@ -34,7 +34,12 @@ Some informations on me :
   - **CPU** : Ryzen 7 5800x
   - **RAM** : 32go
   - **GPU** : Rx 6800xt from XFX
-- **WIP/soon** : Picture + custom loop
+
+
+Click on the pc to see more
+
+<a href="https://imgur.com/gallery/oUU65tk"><img alt="Config" height="500em" src="./.img/config.jpg"/></a>
+
 
 ---
 
@@ -45,8 +50,8 @@ Some informations on me :
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Times-Z&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Times-Z&theme=dark)](https://git.io/streak-stats)
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Times-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Times-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
