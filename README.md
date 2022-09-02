@@ -31,7 +31,7 @@ Some informations on me :
 - **Terminal** : [Kitty](https://github.com/kovidgoyal/kitty)
 - **Dotfiles** : [here](https://github.com/Times-Z/dotfiles)
 - **Pc configuration** :
-  - **CPU** : Ryzen 7 5800x
+  - **CPU** : Ryzen 7 3800x
   - **RAM** : 32go
   - **GPU** : Rx 6800xt from XFX
 
