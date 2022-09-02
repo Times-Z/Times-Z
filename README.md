@@ -38,7 +38,7 @@ Some informations on me :
 
 Click on the pc to see more
 
-<a href="https://imgur.com/gallery/oUU65tk"><img alt="Config" height="500em" src="./.img/config.jpg"/></a>
+<a href="https://imgur.com/gallery/oUU65tk"><img alt="Config" height="500em" src="./.img/newconfig.jpg"/></a>
 
 
 ---
