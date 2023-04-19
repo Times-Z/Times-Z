@@ -2,17 +2,14 @@
 
 <img alt="visitor counter" src="https://komarev.com/ghpvc/?username=Times-Z" />
 
-I'm Times-Z, a 24y french devOps  
+I'm Times-Z, a french devOps
 You can find on this github some personal projects that i do aside of my work
 
 Some informations on me :
 
-- I love my job
-- I love coffee
 - I love mountain bike and surf
 - Linux life, i use arch and bspwm btw
-- I love Docker so much <3
-- My cat is a joke
+- Python is my actual favorite dev language
 
 **Contributions are open, do not hesitate to open issues or propose pull requests**
 
@@ -49,7 +46,7 @@ Click on the pc to see more
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align="center">
-
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Times-Z&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Times-Z&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
