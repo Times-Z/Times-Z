@@ -43,6 +43,11 @@ Click on the pc to see more
 
 ### Some stats
 
+<a href="https://www.abuseipdb.com/user/180002" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+	<img src="https://www.abuseipdb.com/contributor/180002.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+</a>
+
+
 | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Times-Z&show_icons=true&theme=react&include_all_commits=true&locale=fr"/> | <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Times-Z&layout=compact&langs_count=8&theme=react&locale=fr"/> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
