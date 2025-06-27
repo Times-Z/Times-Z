@@ -23,15 +23,17 @@ Some informations on me :
 ### Things I use to get stuff done
 
 - **Distro** : [Arch](https://archlinux.org/)
-- **WM** : [BSPWM](https://github.com/baskerville/bspwm)
-- **Compositor** : [Picom](https://github.com/yshui/picom)
-- **Bar** : [Polybar](https://github.com/polybar/polybar)
+- **WM** : [Hyprland](https://hypr.land/)
+- **Bar** : [Waybar](https://github.com/Alexays/Waybar)
 - **Terminal** : [Kitty](https://github.com/kovidgoyal/kitty)
 - **Dotfiles** : [here](https://github.com/Times-Z/dotfiles)
 - **Pc configuration** :
   - **CPU** : Ryzen 7 3800x
   - **RAM** : 32go
   - **GPU** : Rx 6800xt from XFX
+  - **Screen** : Samsung odyssey g9 (OLED)
+  - **DAC** : Fiio k11
+  - **Headset** : Meze 109 PRO
 
 
 Click on the pc to see more
