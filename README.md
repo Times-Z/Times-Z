@@ -110,9 +110,9 @@ As a DevOps engineer, I am always on the lookout for the latest technologies and
   </tr>
 </table>
 
-<h2 align="center">Contribution graph</h2>
+<h2 align="center">Last month contribution graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30" border-radius="15" alt="Past month contrib">
 </div>
 
 <h2 align="center">Trophy</h2>
