@@ -5,28 +5,33 @@
   />
 </p>
 <p align="center">
-  <img alt="Visitor count" src="https://komarev.com/ghpvc/?username=Times-Z&color=c56a90&style=flat-square" />
+  <a href="https://github.com/Times-Z" target="_blank"><img alt="Visitor count"  src="https://komarev.com/ghpvc/?username=Times-Z&label=Profile%20views&color=c56a90&style=for-the-badge&logo=star" style="padding-right:20px;" /></a>
+  <a href="https://github.com/Times-Z/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Dotfiles-Repo-6e5494?logo=github&color=c56a90&style=for-the-badge" alt="Dotfiles" /></a>
 </p>
 
 <div align="center">
-  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Distro-Arch%20Linux-1793D1?logo=arch-linux&color=c56a90&style=flat-square" alt="Arch Linux" /></a>
-  <a href="https://hypr.land/" target="_blank"><img src="https://img.shields.io/badge/Window manager-Hyprland-000000?color=c56a90&style=flat-square" alt="Hyprland" /></a>
-  <a href="https://github.com/Alexays/Waybar" target="_blank"><img src="https://img.shields.io/badge/Bar-Waybar-4DA1A9?color=c56a90&style=flat-square" alt="Waybar" /></a>
-  <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img src="https://img.shields.io/badge/Terminal-Kitty-000000?color=c56a90&logo=kitty&style=flat-square" alt="Kitty" /></a>
-  <a href="https://github.com/Times-Z/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Dotfiles-Repo-6e5494?logo=github&color=c56a90&style=flat-square" alt="Dotfiles" /></a>
+  <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Distro-Arch%20Linux-1793D1?logo=arch-linux&color=c56a90&style=for-the-badge" alt="Arch Linux" /></a>
+  <a href="https://hypr.land/" target="_blank"><img src="https://img.shields.io/badge/Window manager-Hyprland-000000?color=c56a90&style=for-the-badge" alt="Hyprland" /></a>
+  <a href="https://github.com/Alexays/Waybar" target="_blank"><img src="https://img.shields.io/badge/Bar-Waybar-4DA1A9?color=c56a90&style=for-the-badge" alt="Waybar" /></a>
+  <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img src="https://img.shields.io/badge/Terminal-Kitty-000000?color=c56a90&logo=kitty&style=for-the-badge" alt="Kitty" /></a>
+  
 </div>
 <br/>
 
-I am a technology and development enthusiast with a deep passion for GNU/Linux (_I use Arch and hyprland btw_).
+<div align="center">
+  I’m a young French DevOps engineer who loves exploring new domains, learning new things, and automating anything and everything.
 
-As a DevOps engineer, I am always on the lookout for the latest technologies and enjoy challenging myself to evolve in this field.
+  As a technology and GNU/Linux enthusiast (_I use Arch and Hyprland btw_), I’m always on the lookout for the latest tools and challenges to grow my skills.
+
+  Feel free to explore my projects and contribute !
+</div>
 
 ## ⚡ About me
 
-- Linux fan : I use Arch for my personal workstation, but I often deploy Debian or other Linux distributions
-- Free and open source software enthusiast, I believe FOSS is the way to go
-- DevSecOps mindset : always exploring the latest technologies, challenges, automation and security solutions
-- Hardware enthusiast : custom keyboards, custom watercooling loops, and workspace optimization for the win
+- Linux fan : I use Arch for my personal workstation, but I often deploy Debian or other Linux distributions.
+- Free and open source software enthusiast, I believe FOSS is the way to go.
+- DevSecOps mindset : always exploring the latest technologies, challenges, automation and security solutions.
+- Hardware enthusiast : custom keyboards, custom watercooling loops, and workspace optimization for the win.
 
 ## 💻 My Setup
 
