@@ -112,7 +112,7 @@ As a DevOps engineer, I am always on the lookout for the latest technologies and
 
 <h2 align="center">Contribution graph</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title= &bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 <h2 align="center">Trophy</h2>
