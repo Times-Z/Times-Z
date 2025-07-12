@@ -17,7 +17,7 @@
 </div>
 <br/>
 
-I am a technology and development enthusiast with a deep passion for GNU/Linux OS (_I use Arch and hyprland btw_).
+I am a technology and development enthusiast with a deep passion for GNU/Linux (_I use Arch and hyprland btw_).
 
 As a DevOps engineer, I am always on the lookout for the latest technologies and enjoy challenging myself to evolve in this field.
 
