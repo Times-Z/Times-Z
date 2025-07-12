@@ -23,11 +23,10 @@ As a DevOps engineer, I am always on the lookout for the latest technologies and
 
 ## ⚡ About me
 
-- Technology & development enthusiast
-- Linux fan
-- DevOps: always exploring the latest technologies and challenges
-- Strong ambition: willing to do whatever it takes to succeed in this exciting field
-- Hardware enthusiast: custom keyboards, custom watercooling loops, and workspace optimization
+- Linux fan : I use Arch for my personal workstation, but I often deploy Debian or other Linux distributions
+- Free and open source software enthusiast, I believe FOSS is the way to go
+- DevSecOps mindset : always exploring the latest technologies, challenges, automation and security solutions
+- Hardware enthusiast : custom keyboards, custom watercooling loops, and workspace optimization for the win
 
 ## 💻 My Setup
 
