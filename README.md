@@ -15,6 +15,7 @@
   <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img src="https://img.shields.io/badge/Terminal-Kitty-000000?color=c56a90&logo=kitty&style=flat-square" alt="Kitty" /></a>
   <a href="https://github.com/Times-Z/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Dotfiles-Repo-6e5494?logo=github&color=c56a90&style=flat-square" alt="Dotfiles" /></a>
 </div>
+<br/>
 
 I am a technology and development enthusiast with a deep passion for Linux OS (_I use Arch btw_).
 
@@ -126,5 +127,6 @@ As a DevOps engineer, I am always on the lookout for the latest technologies and
 </div>
 
 ---
+<br/>
 
 ⌛ _Updated on_ `2025-07-12`
