@@ -13,6 +13,7 @@
   <a href="https://hypr.land/" target="_blank"><img src="https://img.shields.io/badge/Window manager-Hyprland-000000?color=c56a90&style=flat-square" alt="Hyprland" /></a>
   <a href="https://github.com/Alexays/Waybar" target="_blank"><img src="https://img.shields.io/badge/Bar-Waybar-4DA1A9?color=c56a90&style=flat-square" alt="Waybar" /></a>
   <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img src="https://img.shields.io/badge/Terminal-Kitty-000000?color=c56a90&logo=kitty&style=flat-square" alt="Kitty" /></a>
+  <a href="https://github.com/Times-Z/dotfiles" target="_blank"><img src="https://img.shields.io/badge/Dotfiles-Repo-6e5494?logo=github&color=c56a90&style=flat-square" alt="Dotfiles" /></a>
 </div>
 
 I am a technology and development enthusiast with a deep passion for Linux OS (_I use Arch btw_).
