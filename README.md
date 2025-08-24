@@ -40,8 +40,8 @@
     <td valign="top">
       <table>
         <tr><th>Component</th><th>Details</th></tr>
-        <tr><td><b>CPU</b></td><td>Ryzen 7 3800x</td></tr>
-        <tr><td><b>RAM</b></td><td>32 GB</td></tr>
+        <tr><td><b>CPU</b></td><td>Ryzen 7 9800x3D</td></tr>
+        <tr><td><b>RAM</b></td><td>64 GB</td></tr>
         <tr><td><b>GPU</b></td><td>XFX RX 6800 XT</td></tr>
         <tr><td><b>Monitor</b></td><td>Samsung Odyssey G9 (OLED)</td></tr>
         <tr><td><b>Mouse</b></td><td>Logitech G502 (not X) lightspeed</td></tr>
