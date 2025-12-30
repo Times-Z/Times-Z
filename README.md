@@ -65,7 +65,7 @@
       <h3 align="center"><strong>Github Stat</strong></h3>
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Times-Z&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-stats.mokiki.fr/api?username=Times-Z&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -107,7 +107,7 @@
       <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -119,18 +119,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30" border-radius="15" alt="Past month contrib">
 </div>
 
-<h2 align="center">Trophy</h2>
 <div align="center">
   <a href="https://github.com/Times-Z">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Times-Z&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Times-Z&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Times-Z&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
+    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Times-Z&limit=10)](https://github.com/amankumarconnect/readme-contribution-stats"  border-radius="15" alt="Open source contrib">
   </a>
 </div>
 
 ---
 <br/>
 
-⌛ _Updated on_ `2025-07-12`
+⌛ _Updated on_ `2025-12-30`
