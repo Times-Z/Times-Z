@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Distro-Arch%20Linux-1793D1?logo=arch-linux&color=c56a90&style=for-the-badge" alt="Arch Linux" /></a>
   <a href="https://hypr.land/" target="_blank"><img src="https://img.shields.io/badge/Window manager-Hyprland-000000?color=c56a90&style=for-the-badge" alt="Hyprland" /></a>
-  <a href="https://github.com/Alexays/Waybar" target="_blank"><img src="https://img.shields.io/badge/Bar-Waybar-4DA1A9?color=c56a90&style=for-the-badge" alt="Waybar" /></a>
+  <a href="https://github.com/Jas-SinghFSU/HyprPanel" target="_blank"><img src="https://img.shields.io/badge/Bar-HyprPanel-4DA1A9?color=c56a90&style=for-the-badge" alt="Waybar" /></a>
   <a href="https://github.com/kovidgoyal/kitty" target="_blank"><img src="https://img.shields.io/badge/Terminal-Kitty-000000?color=c56a90&logo=kitty&style=for-the-badge" alt="Kitty" /></a>
   
 </div>
