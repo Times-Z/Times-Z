@@ -52,7 +52,7 @@
       </table>
     </td>
     <td align="center" valign="middle">
-      <img src=".img/setup.jpg" alt="Setup" width="1000" style="border-radius:12px;" />
+      <img src=".img/setup.jpg" alt="Setup" style="border-radius:12px;" />
     </td>
   </tr>
 </table>
