@@ -62,7 +62,6 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Github Stat</strong></h3>
       <p align="center">
         <a href="https://github.com/Times-Z">
           <img align="center" src="https://github-stats.mokiki.fr/api?username=Times-Z&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
@@ -70,7 +69,6 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Streak</strong></h3>
       <p align="center">
         <a href="https://github.com/Times-Z">
           <img align="center" src="https://github-streak.mokiki.fr?user=Times-Z&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -80,31 +78,19 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>AbuseIPDB Contribution</strong></h3>
       <p align="center">
         <a
           href="https://www.abuseipdb.com/user/180002"
           title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report abusive IPs"
         >
-          <div
-            style="
-              display: inline-block;
-              background: linear-gradient(0deg, #000000, #441350);
-              padding: 12px;
-              border-radius: 12px;
-            "
-          >
             <img
               src="https://www.abuseipdb.com/contributor/180002.svg"
               alt="AbuseIPDB Contributor Badge"
-              style="display: block; background: transparent; height: 150px; filter: invert(1);"
             />
-          </div>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Top Languages</strong></h3>
       <p align="center">
         <a href="https://github.com/Times-Z">
           <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=html,css,assembly" alt="Top Repo" />
@@ -113,19 +99,17 @@
     </td>
   </tr>
 </table>
-
-<h2 align="center">Last month contribution graph</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30" border-radius="15" alt="Past month contrib">
 </div>
 
 <div align="center">
   <a href="https://github.com/Times-Z">
-    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Times-Z&limit=10)](https://github.com/amankumarconnect/readme-contribution-stats"  border-radius="15" alt="Open source contrib">
+    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Times-Z&limit=10"  border-radius="15" alt="Open source contrib">
   </a>
 </div>
 
 ---
 <br/>
 
-⌛ _Updated on_ `2025-12-30`
+⌛ _Updated on_ `2026-02-04`
