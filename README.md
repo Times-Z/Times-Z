@@ -93,7 +93,7 @@
     <td width="50%">
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide=html,css,assembly" alt="Top Repo" />
+          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=10&hide=html,css,assembly" alt="Top Repo" />
         </a>
       </p>
     </td>
