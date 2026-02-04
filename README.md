@@ -59,16 +59,16 @@
 
 ## 📊 Statistics
 
-<table width="100%">
+<table width="100%" height="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" height="100%">
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-stats.mokiki.fr/api?username=Times-Z&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-stats.mokiki.fr/api?username=Times-Z&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&hide_title=true" alt="GitHub Stats" />
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" height="100%">
       <p align="center">
         <a href="https://github.com/Times-Z">
           <img align="center" src="https://github-streak.mokiki.fr?user=Times-Z&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
@@ -77,7 +77,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" height="100%">
       <p align="center">
         <a
           href="https://www.abuseipdb.com/user/180002"
@@ -90,17 +90,17 @@
         </a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" height="100%">
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=10&hide=html,css,assembly" alt="Top Repo" />
+          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=10&hide=html,css,assembly&hide_title=true" alt="Top Repo" />
         </a>
       </p>
     </td>
   </tr>
 </table>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30" border-radius="15" alt="Past month contrib">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30&hide_title=true" border-radius="15" alt="Past month contrib">
 </div>
 
 <div align="center">
