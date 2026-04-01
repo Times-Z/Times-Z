@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&duration=3000&color=c56a90&center=true&vCenter=true&width=600&lines=Welcome%20!;I'm%20Times-Z%20-%20DevOps%20Enthusiast%20\o/"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&duration=3000&color=c56a90&center=true&vCenter=true&width=600&lines=Welcome%20!;I'm%20Times-Z%20-%20DevOps%20Enthusiast%20\o/"
     alt="Typing SVG"
   />
 </p>
@@ -26,14 +26,21 @@
   Feel free to explore my projects and contribute !
 </div>
 
-## ⚡ About me
+<div align="center">
+  <a href="https://github.com/Times-Z">
+    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Times-Z&limit=20"  border-radius="15" alt="Open source contrib">
+  </a>
+</div>
+
+
+## About me
 
 - Linux fan : I use Arch for my personal workstation, but I often deploy Debian or other Linux distributions.
 - Free and open source software enthusiast, I believe FOSS is the way to go.
 - DevSecOps mindset : always exploring the latest technologies, challenges, automation and security solutions.
 - Hardware enthusiast : custom keyboards, custom watercooling loops, and workspace optimization for the win.
 
-## 💻 My Setup
+## My Setup
 
 <table border="0" style="border-collapse: collapse;">
   <tr>
@@ -57,7 +64,7 @@
   </tr>
 </table>
 
-## 📊 Statistics
+## Statistics
 
 <table width="100%" height="100%">
   <tr>
@@ -93,7 +100,7 @@
     <td width="50%" height="100%">
       <p align="center">
         <a href="https://github.com/Times-Z">
-          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=10&hide=html,css,assembly,tsql,scss&hide_title=true" alt="Top Repo" />
+          <img align="center" src="https://github-stats.mokiki.fr/api/top-langs/?username=Times-Z&layout=compact&locale=en&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&langs_count=10&hide=JavaScript,html,css,assembly,tsql,scss&hide_title=true" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -103,13 +110,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30&hide_title=true" border-radius="15" alt="Past month contrib">
 </div>
 
-<div align="center">
-  <a href="https://github.com/Times-Z">
-    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?type=repos&username=Times-Z&limit=10"  border-radius="15" alt="Open source contrib">
-  </a>
-</div>
-
 ---
+
 <br/>
 
-⌛ _Updated on_ `2026-02-04`
+_Updated on_ `2026-04-01`
