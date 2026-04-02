@@ -42,26 +42,57 @@
 
 ## My Setup
 
-<table border="0" style="border-collapse: collapse;">
-  <tr>
-    <td valign="top">
-      <table>
-        <tr><th>Component</th><th>Details</th></tr>
-        <tr><td><b>CPU</b></td><td>Ryzen 7 9800x3D</td></tr>
-        <tr><td><b>RAM</b></td><td>64 GB</td></tr>
-        <tr><td><b>GPU</b></td><td>XFX RX 6800 XT</td></tr>
-        <tr><td><b>Monitor</b></td><td>Samsung Odyssey G9 (OLED)</td></tr>
-        <tr><td><b>Mouse</b></td><td>Logitech G502 (not X) lightspeed</td></tr>
-        <tr><td><b>Keyboard</b></td><td>Custom 60% with silent ink v2 switches, holy 60 case and bt60v2 pcb</td></tr>
-        <tr><td><b>DAC</b></td><td>Fiio K11</td></tr>
-        <tr><td><b>Headphones</b></td><td>Meze 109 PRO</td></tr>
-        <tr><td><b>Desk</b></td><td>FlexiSpot EC5 Pro with a custom 170 x 80 x 4.2 board</td></tr>
-      </table>
-    </td>
-    <td align="center" valign="middle">
-      <img src=".img/setup.jpg" alt="Setup" width="1500" style="border-radius:12px;" />
-    </td>
-  </tr>
+<div align="center">
+  <img src=".img/setup.jpg" alt="Setup" width="900" style="border-radius:12px;" />
+</div>
+
+<br/>
+
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th>Component</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/CPU-555555?style=flat-square" alt="CPU"></b></td>
+      <td><img src="https://img.shields.io/badge/Ryzen_7_9800X3D-c56a90?style=flat-square" alt="CPU Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/RAM-555555?style=flat-square" alt="RAM"></b></td>
+      <td><img src="https://img.shields.io/badge/64_GB-c56a90?style=flat-square" alt="RAM Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/GPU-555555?style=flat-square" alt="GPU"></b></td>
+      <td><img src="https://img.shields.io/badge/XFX_RX_6800_XT-c56a90?style=flat-square" alt="GPU Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/Monitor-555555?style=flat-square" alt="Monitor"></b></td>
+      <td><img src="https://img.shields.io/badge/Odyssey_G9_OLED-c56a90?style=flat-square" alt="Monitor Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/Mouse-555555?style=flat-square" alt="Mouse"></b></td>
+      <td><img src="https://img.shields.io/badge/G502_Lightspeed_(not_X)-c56a90?style=flat-square" alt="Mouse Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/Keyboard-555555?style=flat-square" alt="Keyboard"></b></td>
+      <td><img src="https://img.shields.io/badge/Custom_60%25_Silent_Ink_V2_and_Holy_60_case-c56a90?style=flat-square" alt="Keyboard Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/DAC-555555?style=flat-square" alt="DAC"></b></td>
+      <td><img src="https://img.shields.io/badge/FiiO_K11-c56a90?style=flat-square" alt="DAC Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/Headphones-555555?style=flat-square" alt="Headphones"></b></td>
+      <td><img src="https://img.shields.io/badge/Meze_109_PRO-c56a90?style=flat-square" alt="Headphones Badge" /></td>
+    </tr>
+    <tr>
+      <td><b><img src="https://img.shields.io/badge/Desk-555555?style=flat-square" alt="Desk"></b></td>
+      <td><img src="https://img.shields.io/badge/FlexiSpot_EC5_Pro_with_a_custom_170_x_80_x_4.2_board-c56a90?style=flat-square" alt="Desk Badge" /></td>
+    </tr>
+  </tbody>
 </table>
 
 ## Statistics
@@ -114,4 +145,4 @@
 
 <br/>
 
-_Updated on_ `2026-04-01`
+_Updated on_ `2026-04-02`
