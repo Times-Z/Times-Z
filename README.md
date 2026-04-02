@@ -49,48 +49,52 @@
 <br/>
 
 <table align="center" width="100%" style="border-collapse: collapse;">
+  <colgroup>
+    <col width="35%" />
+    <col width="65%" />
+  </colgroup>
   <thead>
     <tr>
-      <th>Component</th>
-      <th>Details</th>
+      <th align="center" width="35%">Component</th>
+      <th align="center" width="65%">Details</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/CPU-555555?style=flat-square" alt="CPU"></b></td>
-      <td><img src="https://img.shields.io/badge/Ryzen_7_9800X3D-c56a90?style=flat-square" alt="CPU Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/CPU-555555?style=flat-square" alt="CPU"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/Ryzen_7_9800X3D-c56a90?style=flat-square" alt="CPU Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/RAM-555555?style=flat-square" alt="RAM"></b></td>
-      <td><img src="https://img.shields.io/badge/64_GB-c56a90?style=flat-square" alt="RAM Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/RAM-555555?style=flat-square" alt="RAM"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/64_GB-c56a90?style=flat-square" alt="RAM Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/GPU-555555?style=flat-square" alt="GPU"></b></td>
-      <td><img src="https://img.shields.io/badge/XFX_RX_6800_XT-c56a90?style=flat-square" alt="GPU Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/GPU-555555?style=flat-square" alt="GPU"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/XFX_RX_6800_XT-c56a90?style=flat-square" alt="GPU Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/Monitor-555555?style=flat-square" alt="Monitor"></b></td>
-      <td><img src="https://img.shields.io/badge/Odyssey_G9_OLED-c56a90?style=flat-square" alt="Monitor Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/Monitor-555555?style=flat-square" alt="Monitor"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/Odyssey_G9_OLED-c56a90?style=flat-square" alt="Monitor Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/Mouse-555555?style=flat-square" alt="Mouse"></b></td>
-      <td><img src="https://img.shields.io/badge/G502_Lightspeed_(not_X)-c56a90?style=flat-square" alt="Mouse Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/Mouse-555555?style=flat-square" alt="Mouse"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/G502_Lightspeed_(not_X)-c56a90?style=flat-square" alt="Mouse Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/Keyboard-555555?style=flat-square" alt="Keyboard"></b></td>
-      <td><img src="https://img.shields.io/badge/Custom_60%25_Silent_Ink_V2_and_Holy_60_case-c56a90?style=flat-square" alt="Keyboard Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/Keyboard-555555?style=flat-square" alt="Keyboard"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/Custom_60%25_Silent_Ink_V2_and_Holy_60_case-c56a90?style=flat-square" alt="Keyboard Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/DAC-555555?style=flat-square" alt="DAC"></b></td>
-      <td><img src="https://img.shields.io/badge/FiiO_K11-c56a90?style=flat-square" alt="DAC Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/DAC-555555?style=flat-square" alt="DAC"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/FiiO_K11-c56a90?style=flat-square" alt="DAC Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/Headphones-555555?style=flat-square" alt="Headphones"></b></td>
-      <td><img src="https://img.shields.io/badge/Meze_109_PRO-c56a90?style=flat-square" alt="Headphones Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/Headphones-555555?style=flat-square" alt="Headphones"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/Meze_109_PRO-c56a90?style=flat-square" alt="Headphones Badge" /></td>
     </tr>
     <tr>
-      <td><b><img src="https://img.shields.io/badge/Desk-555555?style=flat-square" alt="Desk"></b></td>
-      <td><img src="https://img.shields.io/badge/FlexiSpot_EC5_Pro_with_a_custom_170_x_80_x_4.2_board-c56a90?style=flat-square" alt="Desk Badge" /></td>
+      <td align="center" width="35%"><b><img src="https://img.shields.io/badge/Desk-555555?style=flat-square" alt="Desk"></b></td>
+      <td align="center" width="65%"><img src="https://img.shields.io/badge/FlexiSpot_EC5_Pro_with_a_custom_170_x_80_x_4.2_board-c56a90?style=flat-square" alt="Desk Badge" /></td>
     </tr>
   </tbody>
 </table>
