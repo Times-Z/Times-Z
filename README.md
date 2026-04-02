@@ -43,8 +43,14 @@
 ## My Setup
 
 <div align="center">
-  <img src=".img/setup.jpg" alt="Setup" width="900" style="border-radius:12px;" />
+  <a href="https://www.reddit.com/r/sffpc/comments/1n00acj/lian_li_a3_with_distroplate/" target="_blank">
+    <img src=".img/setup.jpg" alt="Setup - click for more details" width="900" style="border-radius:12px;" />
+  </a>
 </div>
+
+<p align="center">
+  <sub>Click the image for more details about this build.</sub>
+</p>
 
 <br/>
 
