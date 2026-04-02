@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/Times-Z">
-    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=times-z&type=repos&limit=20&transparent=true&t=1775111587353&issues=true&prs=true"  border-radius="15" alt="Open source contrib">
+    <img src="https://readme-contribution-stats.aman-kumar-connect.workers.dev/?username=times-z&type=repos&limit=30&transparent=true&t=1775111587353&issues=true&prs=true&sort=contributions"  border-radius="15" alt="Open source contrib">
   </a>
 </div>
 
