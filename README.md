@@ -147,9 +147,7 @@
     </td>
   </tr>
 </table>
-<div align="center">
-    <img src="https:/github-graph.mokiki.fr/graph?username=Times-Z&custom_title=&nbsp;&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false&days=30&hide_title=true" border-radius="15" alt="Past month contrib">
-</div>
+
 
 ---
 
