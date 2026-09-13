@@ -22,6 +22,7 @@
   I’m a young French DevOps engineer who loves exploring new domains, learning new things, and automating anything and everything.
 
   As a technology and GNU/Linux enthusiast (_I use Arch and Hyprland btw_), I’m always on the lookout for the latest tools and challenges to grow my skills.
+  I occasionally use AI assistance for my projects and contributions, strictly relying on self-hosted models (currently <a href="https://huggingface.co/ornith-ai/Ornith-1.0-9B-GGUF?show_file_info=ornith-1.0-9b-Q8_0.gguf">Ornith</a>).
 
   Feel free to explore my projects and contribute !
 </div>
